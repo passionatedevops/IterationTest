@@ -1,0 +1,8 @@
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\bin\Debug\net5.0\Domain.dll
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\obj\Debug\net5.0\Domain.dll
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\Domain\obj\Debug\net5.0\Domain.pdb

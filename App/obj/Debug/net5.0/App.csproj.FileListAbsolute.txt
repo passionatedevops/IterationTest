@@ -1,0 +1,16 @@
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\App.exe
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\App.deps.json
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\App.runtimeconfig.json
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\App.runtimeconfig.dev.json
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\App.dll
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\App.pdb
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\Domain.dll
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\bin\Debug\net5.0\Domain.pdb
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.csprojAssemblyReference.cache
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.AssemblyInfoInputs.cache
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.AssemblyInfo.cs
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.csproj.CoreCompileInputs.cache
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.csproj.CopyComplete
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.dll
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.pdb
+C:\Suman\Code-Practice\Tutor\C#\2-Students\Joel\Assignments\Swinburn Assignment 1\App\obj\Debug\net5.0\App.genruntimeconfig.cache
